@@ -2,6 +2,7 @@
 LEARNING GOALS
 
 Learn how to create a form in HTML
+
 Demonstrate if else function
 
 INTRODUCTION
