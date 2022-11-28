@@ -1,34 +1,42 @@
 # student-generatorToy
-PROJECT TITLE: Student Grade Generator (Toy Problem)
+
+# AUTHOR: PAULINE NJUGUNA
+
+# PROJECT TITLE: Net Salary Calculator (Toy Problem)
 ____________________________________________________________________________
 
 
+# PROJECT INSTRUCTIONS
 
-
-LEARNING GOALS
-
-Learn how to create a form in HTML
-
-Demonstrate if else function
-
-INTRODUCTION
 Write a program that prompts the user to input student marks. The input should be between 0 and 100. Then output the correct grade as follows: 
 
 A > 79, B > 60 to 79, C > 59 to 49, D > 40 to 49, E > less 40.
 
+# PROJECT DESCRIPTION
 
-STEPS:
+This project was developed to help generate students grades after eaxh test.
 
-Create a HTML file
+This helps make work easier for teachers as it grades the marks automatically.
 
-Link your css to the html file
+# HOW TO INSTALL AND RUN THE PROJECT
 
-<link ref="stylesheet" href="./style.css">
+Git clone the repo into you local folder
 
-Link your js file to the HTML file
+Open the folder in your VisualStudio
 
-<link src="./index.js">
+Run npm install
+
+Run npm test to read through the code
+
+Make neccessary changes to the files and run the below guides to update your local repository
+
+    git add .
+
+    git commit -m ""
+
+    git push 
+    
+# LICENSE
  
- 
- 
+MIT License
 
