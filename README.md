@@ -2,7 +2,7 @@
 
 # AUTHOR: PAULINE NJUGUNA
 
-# PROJECT TITLE: Net Salary Calculator (Toy Problem)
+# PROJECT TITLE: Student Grade Generator (Toy Problem)
 ____________________________________________________________________________
 
 
